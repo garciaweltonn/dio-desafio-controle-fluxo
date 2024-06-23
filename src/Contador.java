@@ -1,4 +1,3 @@
-package controle.fluxo;
 
 import java.util.Scanner;
 
